@@ -3,7 +3,7 @@ TWRP device tree for Redmi Note 11 Pro 4G ( viva/vida )
 
 | Basic                   | Spec Sheet                                                                                                                     	|
 | -----------------------:|:------------------------------------------------------------------------------------------------------------------------------ 	|
-| Codename                | `vida`       																													|
+| Codename                | `viva/vida`       																													|
 | Device name             | `Redmi Note 11 Pro 4G`                                                                                             				|
 | Model names             | `2201116TG`                                                 						|
 | CPU                     | Octa-core                                                                                                                      	|
